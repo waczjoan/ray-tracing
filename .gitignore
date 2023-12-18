@@ -12,3 +12,4 @@ logs/*
 .idea
 *.egg-info/
 output_tests
+build/
