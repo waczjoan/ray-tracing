@@ -1,0 +1,14 @@
+**/.ipynb_checkpoints
+**/__pycache__
+*.png
+*.mp4
+*.npy
+*.npz
+*.dae
+data/*
+logs/*
+.venv
+.tox
+.idea
+*.egg-info/
+output_tests

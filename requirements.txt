@@ -1,0 +1,15 @@
+click==8.1.3
+plotly==5.18.0
+numpy==1.26.2
+
+# Current repository code
+--editable .
+
+# PyTorch
+--find-links https://download.pytorch.org/whl/torch_stable.html
+--find-links https://data.pyg.org/whl/torch-2.0.0+cu117.html
+torch==2.0.0+cu117
+
+
+
+
